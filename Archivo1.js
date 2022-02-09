@@ -1,6 +1,2 @@
 console.log("Probando git");
-
-// conflicto 
-
-
-
+console.log("Que onda aca");
