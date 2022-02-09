@@ -1,6 +1,5 @@
 console.log("Probando git");
-
-// conflicto 
+"alto bardo wacho"
 
 
 
